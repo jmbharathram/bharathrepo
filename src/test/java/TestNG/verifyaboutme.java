@@ -17,7 +17,7 @@ public class verifyaboutme {
 	@BeforeMethod
 	public void launch() {
 		
-		System.setProperty("webdriver.chrome.driver", "chromedriver");
+		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 
 		driver = new ChromeDriver();
 		
