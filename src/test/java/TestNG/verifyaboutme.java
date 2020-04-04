@@ -21,7 +21,7 @@ public class verifyaboutme {
 
 		driver = new ChromeDriver();
 		
-		driver.get("http://34.70.229.81");
+		driver.get("http://34.70.229.81/index.php");
 		
 	}
 	
