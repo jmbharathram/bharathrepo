@@ -21,7 +21,7 @@ public class verifyaboutme {
 
 		driver = new ChromeDriver();
 		
-		driver.get("http://35.223.124.145");
+		driver.get("http://34.70.229.81");
 		
 	}
 	
